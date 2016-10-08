@@ -204,8 +204,8 @@ they	PRP
 hear	VBP
 a	DT
 company	NN
-who's	NNP
-stated	VBD
+who's	VBZ
+stated	VBN
 goals	NNS
 include	VBP
 "	CC
@@ -219,7 +219,7 @@ they	PRP
 imagine	VBP
 a	DT
 company	NN
-who's	NNP
+who's	VBZ
 eventually	RB
 history	NN
 will	MD
@@ -840,7 +840,7 @@ be	VB
 dead	JJ
 .	.
 
-i.e	POS
+i.e	NNP
 .	.
 
 He	PRP
@@ -997,7 +997,7 @@ W.	NNP
 Graae	NNP
 .	.
 
-***	TO
+***	NFP
 
 Bush	NNP
 also	RB
@@ -2108,7 +2108,7 @@ government	NN
 
 http://www.bigeye.com/111003.htm	NN
 
-http://www.thekcrachannel.com/news/4503872/detail.html	TO
+http://www.thekcrachannel.com/news/4503872/detail.html	DT
 
 looks	NNS
 like	IN
@@ -2463,17 +2463,17 @@ option	NN
 
 The	DT
 good	JJ
-A3l	)
+A3l	NNP
 US	NNP
 of	IN
-A	JJ
-ai	VBP
+A	DT
+ai	VBZ
 nt	RB
 what	WP
 it	PRP
-used	JJ
-to	NN
-be	VBP
+used	VBD
+to	TO
+be	VB
 .	.
 
 I	PRP
@@ -2800,16 +2800,16 @@ headline	NN
 "	PRP
 Have	VBP
 200,000	CD
-AK47s	PRP
-Fallen	VBD
+AK47s	NNS
+Fallen	IN
 Into	NNP
-the	NNP
-Hands	RP
+the	DT
+Hands	NNS
 of	IN
 Iraq	NNP
-Terrorists	VBG
+Terrorists	NNS
 ?	.
-"	DT
+"	''
 
 (	(
 also	RB
@@ -2853,20 +2853,20 @@ The	DT
 tonne	NN
 cache	NN
 of	IN
-AK47s	</S>
+AK47s	NNS
 was	VBD
-to	IN
+to	TO
 have	VB
 been	VBN
 secretly	RB
 flown	VBN
-out	IN
+out	RP
 from	IN
-a	JJ
+a	DT
 US	NNP
-base	VB
-in	NN
-Bosnia	WRB
+base	NN
+in	IN
+Bosnia	NNP
 .	.
 
 But	CC
@@ -3706,7 +3706,7 @@ Child	NN
 Murders	NNS
 :	:
 
-Dekalb	NN
+Dekalb	NNP
 County	NNP
 Police	NNP
 Chief	NNP
@@ -3855,9 +3855,9 @@ the	DT
 will	NN
 ...	:
 
-CRACKDOWN	NNPS
-ON	RP
-POLYGAMY	)
+CRACKDOWN	NNP
+ON	IN
+POLYGAMY	NNP
 GROUP	NNP
 
 Small	JJ
@@ -4305,7 +4305,7 @@ communities	NNS
 .	.
 "	''
 
-http://www.csmonitor.com/2006/0509/p02s01-ussc.html?s=t5	TO
+http://www.csmonitor.com/2006/0509/p02s01-ussc.html?s=t5	CD
 
 Maybe	RB
 I	PRP
@@ -4325,7 +4325,7 @@ one	NN
 Loose	NNP
 '	POS
 200,000	CD
-AK47's	NNP
+AK47's	NNS
 ?	.
 
 "	``
@@ -4482,7 +4482,7 @@ law	NN
 enforcement	NN
 has	VBZ
 dragged	VBN
-it's	NNP
+it's	IN
 feet	NNS
 when	WRB
 members	NNS
@@ -4911,7 +4911,7 @@ officials	NNS
 say	VBP
 ...	:
 
-http://www.rawstory.com/news/2006/US_outsourcing_special_operations_intelligence_gathering_0413.html	TO
+http://www.rawstory.com/news/2006/US_outsourcing_special_operations_intelligence_gathering_0413.html	DT
 
 A	DT
 country	NN
@@ -4926,10 +4926,10 @@ friends	NNS
 ...	:
 
 And	CC
-MEK	FW
+MEK	NNP
 --	:
-the	JJ
-Iranian	NNP
+the	DT
+Iranian	JJ
 (	(
 not	RB
 Iraqi	JJ
@@ -4937,12 +4937,12 @@ Iraqi	JJ
 terror	NN
 group	NN
 in	IN
-question	VB
+question	NN
 --	:
-is	NNS
+is	VBZ
 itself	PRP
-unquestionably	NN
-a	CD
+unquestionably	RB
+a	DT
 cult	NN
 :	:
 
@@ -5164,18 +5164,18 @@ to	IN
 them	PRP
 ,	,
 ''	''
-Nadereh	NFP
-Afshari	VBG
+Nadereh	NNP
+Afshari	NNP
 ,	,
-a	JJ
-former	NN
-Mujahedeen	``
-deep	RB
--	:
+a	DT
+former	JJ
+Mujahedeen	IN
+deep	JJ
+-	HYPH
 believer	NN
 ,	,
 told	VBD
-me	FW
+me	PRP
 .	.
 
 Afshari	NNP
@@ -5353,7 +5353,7 @@ that	DT
 priest	NN
 conviction	NN
 :	:
-http://www.sploid.com/news/2006/05/evil_priest_gui.php	NFP
+http://www.sploid.com/news/2006/05/evil_priest_gui.php	NN
 
 Umm	NNP
 ...	:
@@ -5687,9 +5687,9 @@ fulfilling	VBG
 the	DT
 death	NN
 metal	NN
-paradigm	JJ
+paradigm	NN
 ,	,
-er	VBG
+er	CC
 ...	:
 morality	NN
 .	.
@@ -6106,7 +6106,7 @@ wilt	VBD
 "	PRP
 .	.
 
-http://youtube.com/watch?v=d46_ctqDmI4	TO
+http://youtube.com/watch?v=d46_ctqDmI4	CD
 
 To	IN
 not	RB
@@ -6545,21 +6545,21 @@ Do	VBP
 you	PRP
 really	RB
 think	VBP
-GWB	LS
+GWB	NNP
 ,	,
-and	CD
-neocons	WP$
-in	RBR
-general	NN
+and	CC
+neocons	NNS
+in	IN
+general	JJ
 are	VBP
 representative	JJ
-of	NN
+of	IN
 true	JJ
 followers	NNS
-of	JJ
-Jesus	NN
-of	RP
-Nazareth	JJR
+of	IN
+Jesus	JJ
+of	IN
+Nazareth	NN
 ?	.
 
 (	(
@@ -7137,7 +7137,7 @@ information	NN
 
 http://en.wikipedia.org/wiki/John_Balance	IN
 
-http://www.guardian.co.uk/obituaries/story/0,3604,1371372,00.html	TO
+http://www.guardian.co.uk/obituaries/story/0,3604,1371372,00.html	DT
 
 Balance	NN
 died	VBD
@@ -7200,18 +7200,18 @@ work	VB
 :	:
 
 5	CD
-kg	HYPH
+kg	NN
 per	IN
 gun	NN
 ,	,
 200,000	CD
 guns	NNS
-means	NN
+means	VBZ
 1000	CD
-tonnes	''
+tonnes	NNS
 ,	,
 impossible	JJ
-for	NN
+for	IN
 4	CD
 containers	NNS
 .	.
@@ -7230,7 +7230,7 @@ than	IN
 20,000	CD
 .	.
 
-E@tG	</S>
+E@tG	NNP
 :	:
 
 Maybe	RB
@@ -7679,15 +7679,15 @@ Orders	NNS
 and	CC
 13389	CD
 ,	,
-and	CD
-***	NFP
-Revocation	SYM
-***	VBZ
+and	CC
+***	SYM
+Revocation	NN
+***	SYM
 of	IN
 Executive	NNP
-Order	NN
-13011	PRP
-....	FW
+Order	NNP
+13011	CD
+....	:
 
 I	PRP
 ca	MD
@@ -9079,11 +9079,11 @@ section	NN
 ,	,
 but	CC
 out	RB
-of	RB
-the	NN
-NY	MD
+of	IN
+the	DT
+NY	NNP
 Times	NNP
-and	NNP
+and	CC
 Washington	NNP
 Post	NNP
 completely	RB
@@ -11193,20 +11193,20 @@ Iraq	NNP
 "	''
 
 Ash	NNP
--	:
-Sharq	</S>
-al	NNPS
 -	HYPH
-Awsat	VBP
-reports	VBZ
-that	VBP
-Fallujah	WRB
+Sharq	NNP
+al	NNP
+-	HYPH
+Awsat	NN
+reports	NNS
+that	IN
+Fallujah	NNP
 was	VBD
-closed	JJ
+closed	VBN
 Tuesday	NNP
-in	FW
-a	FW
-general	NN
+in	IN
+a	DT
+general	JJ
 strike	NN
 .	.
 
@@ -12096,7 +12096,7 @@ Friday	NNP
 prayer	NN
 sermon	,
 in	IN
-Kufa	NN
+Kufa	NNP
 ,	,
 his	PRP$
 home	NN
@@ -13459,11 +13459,11 @@ Hiller	NNP
 a	DT
 political	JJ
 reporter	NN
-for	NNP
-WHDH	WDT
--	:
-TV	NNP
-in	RP
+for	IN
+WHDH	NNP
+-	HYPH
+TV	NN
+in	IN
 Boston	NNP
 .	.
 
@@ -15839,10 +15839,10 @@ Considered	VBN
 PM	NNP
 ET	NNP
 )	)
--	HYPH
-NPR	CD
+-	:
+NPR	NNP
 March	NNP
-30	NNP
+30	CD
 ,	,
 2004	CD
 Tuesday	NNP
@@ -15961,25 +15961,25 @@ National	NNP
 Guard	NNP
 .	.
 
-NPR	CC
+NPR	NNP
 's	POS
 Wade	NNP
-Goodwyn	JJR
-has	VBN
-this	NN
-report	VB
-about	RP
+Goodwyn	NNP
+has	VBZ
+this	DT
+report	NN
+about	IN
 Mr.	NNP
 Bush	NNP
-'s	NNP
+'s	POS
 time	NN
-on	NN
-that	IN
+on	IN
+that	DT
 campaign	NN
 .	.
 
-WADE	POS
-GOODWYN	CD
+WADE	NNP
+GOODWYN	NNP
 reporting	NN
 :	:
 
@@ -16114,9 +16114,9 @@ with	IN
 everybody	NN
 .	.
 
-GOODWYN	</S>
+GOODWYN	NNP
 :	:
-The	NNP
+The	DT
 candidate	NN
 Mr.	NNP
 Bush	NNP
@@ -16130,10 +16130,10 @@ Blount	NNP
 had	VBD
 gotten	VBN
 rich	JJ
-in	RBR
+in	IN
 Alabama	NNP
-in	FW
-the	NNP
+in	IN
+the	DT
 construction	NN
 business	NN
 .	.
@@ -16425,21 +16425,21 @@ the	DT
 evening	NN
 .	.
 
-GOODWYN	</S>
+GOODWYN	NNP
 :	:
 Archibald	NNP
 says	VBZ
 that	IN
 two	CD
 months	NNS
-before	RP
+before	IN
 the	DT
 election	NN
 ,	,
 in	IN
 September	NNP
-of	RP
-'72	EX
+of	IN
+'72	CD
 ,	,
 Red	NNP
 Blount	NNP
@@ -16447,29 +16447,29 @@ Blount	NNP
 campaign	NN
 manager	NN
 came	VBD
-to	NN
+to	IN
 him	PRP
-and	NNP
-asked	VBN
-that	WDT
+and	CC
+asked	VBD
+that	IN
 he	PRP
 quietly	RB
-take	NN
-over	RP
+take	VB
+over	IN
 Mr.	NNP
 Bush	NNP
 's	POS
 job	NN
-because	RB
-the	JJ
+because	IN
+the	DT
 campaign	NN
 materials	NNS
 were	VBD
 not	RB
 getting	VBG
-out	NN
+out	RP
 to	IN
-the	JJ
+the	DT
 counties	NNS
 .	.
 
@@ -16525,14 +16525,14 @@ state	NN
 headquarters	NN
 .	.
 
-GOODWYN	</S>
+GOODWYN	NNP
 :	:
-Murph	)
+Murph	NNP
 Archibald	NNP
 says	VBZ
-that	VBP
+that	IN
 at	IN
-first	RB
+first	JJ
 ,	,
 he	PRP
 did	VBD
@@ -16543,10 +16543,10 @@ Mr.	NNP
 Bush	NNP
 was	VBD
 serving	VBG
-in	FW
-the	NNP
-Air	NN
-National	JJ
+in	IN
+the	DT
+Air	NNP
+National	NNP
 Guard	NNP
 .	.
 
@@ -16650,11 +16650,11 @@ about	IN
 it	PRP
 .	.
 
-GOODWYN	</S>
+GOODWYN	NNP
 :	:
 Far	NNP
 from	IN
-Texas	JJ
+Texas	NNP
 and	CC
 Washington	NNP
 ,	,
@@ -16662,7 +16662,7 @@ DC	NNP
 ,	,
 Mr.	NNP
 Bush	NNP
-enjoyed	VBN
+enjoyed	VBD
 his	PRP$
 freedom	NN
 .	.
@@ -16836,24 +16836,24 @@ before	IN
 drinking	NN
 .	.
 
-GOODWYN	</S>
+GOODWYN	NNP
 :	:
 Archibald	NNP
 says	VBZ
-the	JJ
+the	DT
 frequency	NN
 with	IN
 which	WDT
 Mr.	NNP
 Bush	NNP
-discussed	VBN
-the	NNP
-subject	VB
+discussed	VBD
+the	DT
+subject	NN
 was	VBD
 off	RB
--	VBN
+-	HYPH
 putting	VBG
-to	TO
+to	IN
 him	PRP
 .	.
 
@@ -16931,35 +16931,35 @@ frankly	RB
 inappropriate	JJ
 .	.
 
-GOODWYN	</S>
+GOODWYN	NNP
 :	:
 According	VBG
-to	NN
+to	IN
 Archibald	NNP
 ,	,
 Mr.	NNP
 Bush	NNP
 would	MD
-also	NN
+also	RB
 sometimes	RB
-tell	JJ
+tell	VB
 stories	NNS
-about	JJ
-his	PRP
+about	IN
+his	PRP$
 days	NNS
 at	IN
 Yale	NNP
 in	IN
-New	JJ
+New	NNP
 Haven	NNP
 ,	,
-and	NNP
-how	NN
+and	CC
+how	WRB
 whenever	WRB
 he	PRP
-got	VBP
-pulled	VBD
-over	JJ
+got	VBD
+pulled	VBN
+over	RP
 for	IN
 erratic	JJ
 driving	NN
@@ -16968,16 +16968,16 @@ he	PRP
 was	VBD
 let	VB
 go	VB
-after	RB
+after	IN
 the	DT
 officers	NNS
 discovered	VBD
 he	PRP
 was	VBD
-the	NNP
+the	DT
 grandson	NN
-of	NN
-a	LS
+of	IN
+a	DT
 Connecticut	NNP
 US	NNP
 senator	NN
@@ -17245,35 +17245,35 @@ days	NNS
 One	CD
 witness	NN
 at	IN
-the	NNP
-Moutasaddiq	WRB
+the	DT
+Moutasaddiq	NNP
 trial	NN
 in	IN
 Germany	NNP
-alleged	VBN
+alleged	VBD
 that	IN
-Zarqawi	POS
+Zarqawi	NNP
 had	VBD
 not	RB
-allowed	JJ
-Monotheism	PRP
+allowed	VBN
+Monotheism	NN
 and	CC
 Holy	NNP
 War	NNP
-to	NN
-share	VBP
+to	IN
+share	NN
 resources	NNS
-with	RP
-al	UH
--	:
-Qaeda	''
-in	FW
-the	NNP
-early	RB
-zeroes	``
-of	RB
-the	NNP
-21st	CD
+with	IN
+al	NNP
+-	HYPH
+Qaeda	NNP
+in	IN
+the	DT
+early	JJ
+zeroes	NNS
+of	IN
+the	DT
+21st	JJ
 century	NN
 .	.
 
@@ -18446,13 +18446,13 @@ intrepid	NNP
 Ed	NNP
 Wong	NNP
 of	IN
-the	JJ
-NYT	:
-has	VBN
+the	DT
+NYT	NN
+has	VBZ
 more	JJR
 on	IN
 the	DT
-Sunni	WRB
+Sunni	NNP
 boycott	NN
 of	IN
 the	DT
@@ -18892,39 +18892,39 @@ Interior	NNP
 !	.
 
 The	DT
-MoI	HYPH
+MoI	NNP
 in	IN
 Iraq	NNP
-is	NNS
-equivalent	NN
+is	VBZ
+equivalent	JJ
 to	IN
-the	JJ
+the	DT
 US	NNP
 FBI	NNP
 ,	,
 so	RB
-this	RB
+this	DT
 would	MD
 be	VB
-like	JJ
+like	IN
 having	VBG
 J.	NNP
 Edgar	NNP
 Hoover	NNP
-unwittingly	:
+unwittingly	RB
 employ	VB
-at	RB
-a	NNP
-high	NN
-level	VBP
+at	IN
+a	DT
+high	JJ
+level	NN
 members	NNS
-of	RB
-the	JJ
-Weathermen	CD
+of	IN
+the	DT
+Weathermen	JJ
 bombers	NNS
-back	VBP
-in	FW
-the	NNP
+back	RB
+in	IN
+the	DT
 1960s	NNS
 .	.
 
@@ -19646,30 +19646,30 @@ Iraqis	NN
 .	.
 
 Al	NNP
--	:
-Sharq	</S>
-al	NNPS
 -	HYPH
-Awsat	EX
+Sharq	NNP
+al	NNP
+-	HYPH
+Awsat	NN
 reports	NNS
-that	DT
-a	SYM
-key	VB
+that	IN
+a	DT
+key	JJ
 eyewitness	NN
 in	IN
-the	JJ
+the	DT
 trial	NN
-of	JJ
-Saddam	RBS
-Hussein	``
-for	NN
-a	SYM
+of	IN
+Saddam	NNP
+Hussein	NNP
+for	IN
+a	DT
 1982	CD
 massacre	NN
-at	RP
-Dujail	(
-has	VBN
-died	VBD
+at	IN
+Dujail	NNP
+has	VBZ
+died	VBN
 .	.
 
 A	DT
@@ -19868,13 +19868,13 @@ a	DT
 press	NN
 release	NN
 titled	VBD
-THE	NNP
-MYTHS	HYPH
+THE	DT
+MYTHS	NNP
 OF	IN
-CHERNOBYL	:
+CHERNOBYL	NNP
 which	WDT
 contained	VBD
-the	JJ
+the	DT
 following	NN
 :	:
 
@@ -19960,12 +19960,12 @@ in	IN
 1996	CD
 :	:
 
-CHERNOBYL	NN
-ACCIDENT	FW
+CHERNOBYL	NNP
+ACCIDENT	NNP
 :	:
-TEN	LS
+TEN	WRB
 YEARS	NNS
-ON	RP
+ON	IN
 
 In	IN
 the	DT
@@ -20313,27 +20313,27 @@ Report	NNP
 Lessons	VBZ
 learned	VBN
 
-http://www.ibiblio.org/expo/soviet.exhibit/chernobyl.html	TO
+http://www.ibiblio.org/expo/soviet.exhibit/chernobyl.html	DT
 
 http://www.ibrae.ac.ru/IBRAE/eng/chernobyl/nat_rep/nat_repe.htm#24	CD
 
 http://www.nsrl.ttu.edu/chernobyl/wildlifepreserve.htm	NN
 
-http://www.environmentalchemistry.com/yogi/hazmat/articles/chernobyl1.html	TO
+http://www.environmentalchemistry.com/yogi/hazmat/articles/chernobyl1.html	DT
 
 http://digon_va.tripod.com/Chernobyl.htm	NN
 
-http://www.oneworld.org/index_oc/issue196/byckau.html	TO
+http://www.oneworld.org/index_oc/issue196/byckau.html	DT
 
 http://www.collectinghistory.net/chernobyl/	TO
 
 http://www.ukrainianweb.com/chernobyl_ukraine.htm	NN
 
-http://www.bullatomsci.org/issues/1993/s93/s93Marples.html	TO
+http://www.bullatomsci.org/issues/1993/s93/s93Marples.html	DT
 
 http://www.calguard.ca.gov/ia/Chernobyl-15%20years.htm	NN
 
-http://www.infoukes.com/history/chornobyl/gregorovich/index.html	TO
+http://www.infoukes.com/history/chornobyl/gregorovich/index.html	DT
 
 http://www.un.org/ha/chernobyl/	TO
 
@@ -20341,17 +20341,17 @@ http://www.tecsoc.org/pubs/history/2002/apr26.htm	NN
 
 http://www.chernobyl.org.uk/page2.htm	NN
 
-http://www.time.com/time/daily/chernobyl/860901.accident.html	TO
+http://www.time.com/time/daily/chernobyl/860901.accident.html	DT
 
 http://www.infoukes.com/history/chornobyl/elg/	TO
 
 http://www.world-nuclear.org/info/chernobyl/inf07.htm	NN
 
-http://www.nea.fr/html/rp/chernobyl/conclusions5.html	TO
+http://www.nea.fr/html/rp/chernobyl/conclusions5.html	DT
 
-http://www.nea.fr/html/rp/chernobyl/c01.html	TO
+http://www.nea.fr/html/rp/chernobyl/c01.html	DT
 
-http://www.nea.fr/html/rp/chernobyl/c05.html	TO
+http://www.nea.fr/html/rp/chernobyl/c05.html	DT
 
 http://www.physics.isu.edu/radinf/chern.htm	NN
 
@@ -20359,9 +20359,9 @@ http://www.chernobyl.info/en	IN
 
 http://www.arps.org.au/Chernobyl.htm	NN
 
-http://www-formal.stanford.edu/jmc/progress/chernobyl.html	TO
+http://www-formal.stanford.edu/jmc/progress/chernobyl.html	DT
 
-http://www.21stcenturysciencetech.com/articles/chernobyl.html	TO
+http://www.21stcenturysciencetech.com/articles/chernobyl.html	DT
 
 I	PRP
 would	MD
@@ -20391,7 +20391,7 @@ a	DT
 child	NN
 in	IN
 the	DT
-50's	NNP
+50's	NNS
 I	PRP
 had	VBD
 a	DT
