@@ -2494,7 +2494,7 @@ out	IN
 blog	NN
 .	.
 
-hey	PRP
+hey	UH
 that	WDT
 's	VBZ
 a	DT
@@ -2636,17 +2636,17 @@ Know	NNP
 How	WRB
 YOU	PRP
 Can	MD
-Live	NNP
+Live	VB
 In	IN
-A	NNP
+A	DT
 Beautiful	NNP
 NEW	NNP
 House	NNP
 That	DT
 Is	VBZ
 Custom	NNP
--	HYPH
-Designed	VBN
+-	SYM
+Designed	JJ
 To	IN
 YOUR	PRP$
 Specifications	NNS
@@ -2669,7 +2669,7 @@ And	CC
 It	PRP
 's	VBZ
 Not	RB
-Hard	NNP
+Hard	RB
 To	TO
 Do	VB
 ....	:
@@ -2749,7 +2749,7 @@ end	NN
 
 And	CC
 you	PRP
-search	NN
+search	VBP
 in	IN
 vain	JJ
 to	TO
@@ -3888,7 +3888,7 @@ the	DT
 Fundamentalist	NN
 Latter	IN
 Day	NNP
-Saints	NNS
+Saints	NNP
 (	(
 FLDS	NNP
 )	)
@@ -4184,7 +4184,7 @@ neo-Nazi	NNP
 Creativity	NNP
 Movement	NNP
 ,	,
-Jeffs	NNS
+Jeffs	NNP
 has	VBZ
 preached	VBN
 racism	NN
@@ -4482,7 +4482,7 @@ law	NN
 enforcement	NN
 has	VBZ
 dragged	VBN
-it's	NNP
+it's	NN
 feet	NNS
 when	WRB
 members	NNS
@@ -4645,7 +4645,7 @@ begs	VBZ
 them	PRP
 to	TO
 stop	VB
-intermarrying	VBG
+intermarrying	NN
 but	CC
 they	PRP
 say	VBP
@@ -4664,7 +4664,7 @@ fumarase	DT
 deficiency	NN
 for	IN
 more	JJR
-info	NNP
+info	NN
 .	.
 
 Also	RB
@@ -4715,7 +4715,7 @@ the	DT
 beating	NN
 .	.
 
-So	RB
+So	IN
 we	PRP
 "	,
 lost	VBD
@@ -4778,7 +4778,7 @@ all	PDT
 those	DT
 defense	NN
 contractors	NNS
-awash	VBP
+awash	RB
 in	IN
 all	PDT
 that	DT
@@ -5047,7 +5047,7 @@ England	NNP
 ,	,
 the	DT
 United	NNP
-States	NNPS
+States	NNP
 --	:
 where	WRB
 they	PRP
@@ -5085,7 +5085,7 @@ ranks	NNS
 of	IN
 the	DT
 youngest	JJS
-Mujahedeen	NN
+Mujahedeen	IN
 generation	NN
 .	.
 
@@ -5214,7 +5214,7 @@ education	NN
 system	NN
 ,	,
 the	DT
-Mujahedeen	NNP
+Mujahedeen	NN
 refused	VBD
 .	.
 
@@ -5299,7 +5299,7 @@ and	CC
 Massoud	NN
 .	.
 
-Link	NNP
+Link	VBP
 
 One	CD
 has	VBZ
@@ -5689,7 +5689,7 @@ death	NN
 metal	NN
 paradigm	NN
 ,	,
-er	NNP
+er	UH
 ...	:
 morality	NN
 .	.
@@ -5898,7 +5898,7 @@ Well	RB
 it	PRP
 's	VBZ
 not	RB
-as	IN
+as	RB
 simple	JJ
 and	CC
 clear	JJ
@@ -6291,7 +6291,7 @@ out	RP
 leaflets	NNS
 and	CC
 quizzing	VBG
-Fabio	NNP
+Fabio	NN
 's	POS
 friends	NNS
 .	.
@@ -6456,7 +6456,7 @@ To	IN
 hell	NN
 with	IN
 death	NN
-"	)
+"	:
 .	.
 
 I	PRP
@@ -7617,8 +7617,8 @@ thing	NN
 like	IN
 that	DT
 ....	:
-hey	PRP
-wait	VBP
+hey	UH
+wait	VB
 a	DT
 minute	NN
 
@@ -8183,7 +8183,7 @@ blame	NN
 on	IN
 .	.
 
-Sub-cultures	PRP
+Sub-cultures	NNP
 (	(
 as	IN
 the	DT
@@ -8298,7 +8298,7 @@ Christians	NNS
 or	CC
 '	POS
 Smartwolves	NNS
-'	''
+'	POS
 )	)
 do	VBP
 not	RB
@@ -8405,7 +8405,7 @@ quote	VB
 other	JJ
 writers	NNS
 at	IN
-legnth	DT
+legnth	NN
 in	IN
 this	DT
 space	NN
@@ -8730,7 +8730,7 @@ married	VBN
 So	RB
 he	PRP
 's	VBZ
-got	VBN
+got	VBD
 a	DT
 --	:
 I	PRP
@@ -9013,7 +9013,7 @@ in	IN
 1999	CD
 .	.
 
-Important	JJ
+Important	NN
 news	NN
 such	JJ
 as	IN
@@ -10744,8 +10744,8 @@ ball	NN
 .	.
 
 Angry	NNP
-crowds	VBZ
-chanted	VBN
+crowds	NNS
+chanted	VBD
 anti-American	JJ
 slogans	NNS
 in	IN
@@ -12622,7 +12622,7 @@ behind	IN
 -	HYPH
 the	DT
 -	HYPH
-scenes	NNS
+scenes	NN
 overtures	NNS
 to	IN
 the	DT
@@ -14221,7 +14221,7 @@ active	JJ
 leader	NN
 to	TO
 help	VB
-resolve	VB
+resolve	NN
 conflicts	NNS
 ,	,
 from	IN
@@ -15454,7 +15454,7 @@ the	DT
 disastrous	JJ
 siege	NN
 of	IN
-Fallujah	NNP
+Fallujah	DT
 last	JJ
 spring	NN
 ,	,
@@ -16765,7 +16765,7 @@ of	IN
 as	IN
 a	DT
 conversation	NN
-starter	JJ
+starter	NN
 .	.
 
 Mr.	NNP
@@ -17581,8 +17581,8 @@ Muhammad	NN
 .	.
 
 (	(
-Most	NNP
-Salafis	NNP
+Most	JJS
+Salafis	NNS
 are	VBP
 not	RB
 militant	JJ
@@ -17857,13 +17857,13 @@ That	IN
 the	DT
 Iraqi	JJ
 Islamic	JJ
-Party	NN
+Party	NNP
 is	VBZ
 now	RB
 contemplating	VBG
 leaving	VBG
 the	DT
-Allawi	NN
+Allawi	NNP
 government	NN
 raises	VBZ
 the	DT
@@ -18533,7 +18533,7 @@ the	DT
 Fallujah	NNP
 assault	NN
 ,	,
-both	CC
+both	DT
 in	IN
 Iraq	NNP
 and	CC
@@ -19300,7 +19300,7 @@ hundred	CD
 members	NNS
 of	IN
 the	DT
-Batawi	NN
+Batawi	NNP
 clan	NN
 of	IN
 the	DT
@@ -20377,7 +20377,7 @@ and	CC
 what	WP
 you	PRP
 found	VBD
-that	IN
+that	WDT
 was	VBD
 most	RBS
 convincing	JJ
@@ -20421,7 +20421,7 @@ on	IN
 my	PRP$
 neck	NN
 started	VBD
-enlarging	VBG
+enlarging	NN
 --	:
 they	PRP
 said	VBD
@@ -20993,7 +20993,7 @@ years	NNS
 ,	,
 ...	:
 
-Great	JJ
+Great	NNP
 to	TO
 have	VB
 you	PRP
